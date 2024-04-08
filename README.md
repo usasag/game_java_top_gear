@@ -1,4 +1,4 @@
-# Jogo de Corrida em JavaFX
+# Jogo de Corrida em JavaFX - Nitro Gear
 
 Este é um projeto de um jogo de corrida desenvolvido em JavaFX como parte do curso de Engenharia da Computação.
 
