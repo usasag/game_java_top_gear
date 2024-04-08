@@ -26,6 +26,12 @@ Este é um projeto de um jogo de corrida desenvolvido em JavaFX como parte do cu
 6. Use as teclas de seta para controlar o veículo.
 7. Cruze a linha de chegada o mais rápido possível e alcance a vitória!
 
+## Regras do Jogo
+
+1. Os corredores devem seguir o percurso sem atalhos.
+2. A corrida só acaba quando todos os jogadores humanos cruzarem a linha de chegada.
+3. Uma corrida será composta por 3 voltas.
+
 ## Desenvolvimento
 
 Este projeto foi desenvolvido como parte do currículo da disciplina de Programação Orientada a Objetos da faculdade de Engenharia da Computaçã do IFCE - Campus Fortaleza. O objetivo principal foi aplicar conceitos de programação orientada a objetos e desenvolver habilidades práticas na construção de interfaces gráficas utilizando JavaFX.
